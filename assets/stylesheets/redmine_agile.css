@@ -90,7 +90,7 @@ table.list.versions-planning-board tbody tr:hover {background-color: white;}
 /**********************************************************************/
 /* AGILE BOARD
 /**********************************************************************/
-table.list.issues-board {table-layout: fixed;}
+table.list.issues-board {}
 table.list.issues-board th {overflow: hidden; text-overflow: ellipsis;}
 
 table.list.issues-board tbody tr,
